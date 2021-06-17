@@ -9,7 +9,7 @@ or just ./network.sh up
 
 other commands: 
 
-./network.sh createChannel or ./network.sh createChannel <channelName>
+./network.sh createChannel or ./network.sh createChannel {channelName}
 
 ./network.sh deployCC -ccn basic -ccp ../chaincode-go -ccl go
 
